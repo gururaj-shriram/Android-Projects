@@ -1,8 +1,8 @@
 #Full Applications
 
 ##Phlogging
-* Allows the user to store "phlog" entries on their phone, recording information about some event, observation, thought, etc.
-* Phlog entries can be created, viewed, edited, deleted, etc., in the usual idiom of blogging.
+* Allows the user to store "phlog" entries on their phone, recording information about some event, observation, thought, etc
+* Phlog entries can be created, viewed, edited, deleted, etc., in the usual idiom of blogging
 
 
 ##TalkingPictureList
